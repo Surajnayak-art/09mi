@@ -1,3 +1,4 @@
+
 const canvas = document.getElementsByTagName("canvas")[0];
 const image = document.getElementsByTagName("p")[0];
 canvas.width = canvas.clientWidth;
